@@ -1,10 +1,10 @@
 blender_testgame
 ================
 
-A small test of the Blender Game Engine, whith Drag and Drop, normal mapping, dynamic lightning and some riddles
+A small test of the Blender Game Engine, whith Drag and Drop, fancy normal maps, dynamic lightning and some riddles
 
 :D
-To Test this program you need only Blender (www.blender.org)
+To Test this program you only need Blender (www.blender.org)
 
 I’m happy about every review and anybody, who use the program and makes it better.
 
