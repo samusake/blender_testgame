@@ -14,7 +14,7 @@ To do list:
 2.level 2 not completed
 3.quest in room 2, the key shouldn’t go down, after you put him inside the keyhole
 4.quest in room 2 is too hard
-(you must take the key, who is over the lamp and put him inside the keyhole (which is in right of the door), than you have to throw grenades with G against the cupboard)
+(you have to take the key, who is over the lamp and put him inside the keyhole (which is at the right of the door), than you have to throw grenades with G against the cupboard)
 
 
 
